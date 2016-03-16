@@ -6,7 +6,7 @@ document.addEventListener('deviceready', function () {
 
 function addDataToTable() {
 
-    var table = document.getElementById("dataTable");
+    var table = document.getElementById("dataTable666");
     if ((table !== undefined) && (table !== null)) {
         var row = table.insertRow(-1);
         var cell0 = row.insertCell(0);
